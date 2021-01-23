@@ -19,7 +19,7 @@ async def ping(ctx):
 
     
     @bot.command()
-async def Aiueo(ctx):
+async def aiueo(ctx):
     await ctx.send('Oppai')
     
 
