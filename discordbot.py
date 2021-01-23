@@ -23,6 +23,11 @@ async def ping(ctx):
 async def Pちゃん(ctx):
     await ctx.send('うんち！')
     
+    
+    
+@bot.command()
+async def おやすみ！(ctx):
+    await ctx.send('はよねろよ！')    
 
 
 
